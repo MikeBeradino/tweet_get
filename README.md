@@ -1,7 +1,7 @@
 # tweet_get
 
 
-This is just a simple script that will grab tweets with a keyword and write to a txt file. 
+This is just a simple script that will grab tweets containing a keyword and write to a txt file. 
 
 Dependencies are:
 Tweeply
